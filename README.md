@@ -15,7 +15,7 @@
   - `PORT`: 8094
 - Кастомизированы имена Docker-образов и контейнеров
   
-  ![Jenkins Pipeline](./images/jenkins.jpg)
+
 
 
 ### 3. Конфигурация Jenkinsfile
