@@ -17,7 +17,7 @@
   
 jenkins.jpg.png
 
-![Jenkins Pipeline](./images/jenkinse.jpg.png)
+![Jenkins Pipeline](./images/jenkins.jpg.png)
 
 
 ### 3. Конфигурация Jenkinsfile
