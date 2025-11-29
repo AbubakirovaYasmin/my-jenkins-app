@@ -8,6 +8,8 @@
 - Склонирован исходный код из репозитория преподавателя
 - Настроен remote origin для личного репозитория
 
+  ![Jenkins Pipeline](./Снимок экрана 2025-11-29 170516.png)
+
 ### 2. Настройка Jenkins Pipeline
 - Создана джоба в Jenkins: `student-abubakirova-yasmin`
 - Настроен Pipeline с параметрами:
@@ -15,8 +17,6 @@
   - `PORT`: 8094
 - Кастомизированы имена Docker-образов и контейнеров
   
-jenkins.jpg.png
-
 ![Jenkins Pipeline](./jenkins.jpg.png)
 
 
