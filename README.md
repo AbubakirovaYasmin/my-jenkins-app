@@ -17,6 +17,8 @@
   
 jenkins.jpg.png
 
+![Jenkins Pipeline](./images/jenkinse.jpg.png)
+
 
 ### 3. Конфигурация Jenkinsfile
 - Реализованы этапы пайплайна:
